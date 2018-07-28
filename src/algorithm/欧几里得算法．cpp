@@ -1,5 +1,4 @@
-int a=0;
-int b=3;
+#include<cstdio>
 /**
 ［任务］求两个数a,b的最大公约数gcd(a,b)
 [例题]

@@ -8,7 +8,7 @@
 **2、备战训练链接**<br>
 > 参考资料：<br>
 > [杭电acm阶段之理工大版](https://blog.csdn.net/liuqiyao_01/article/details/8477645)<br>
-> [POJ题目分类](https://blog.csdn.net/S_zhicheng27/article/details/80898963)<br>
+> [POJ题目分类](http://exp-blog.com/2018/06/28/pid-38/)<br>
 > [ACM题集以及各种总结大全](https://blog.csdn.net/liuqiyao_01/article/details/9079611)<br>
 > [国家集训队论文分类整理](http://www.cnblogs.com/AbandonZHANG/archive/2012/07/21/2601889.html)<br>
 > 题库：<br>

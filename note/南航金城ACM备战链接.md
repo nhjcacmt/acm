@@ -4,7 +4,7 @@
 **1、初步了解**<br>
 - 刷算法和数据结构：[LeetCode](https://leetcode-cn.com/problemset/all/)<br>
 - 基础竞赛算法：[蓝桥杯总结-常用函数及算法 ](https://www.cnblogs.com/chengyu404/p/5600739.html)<br>
-
+------
 **2、备战训练链接**<br><br>
  (1)参考资料：<br>
 - [ＡＣＭ资料合集](http://exp-blog.com/2018/07/11/pid-1777/)<br>

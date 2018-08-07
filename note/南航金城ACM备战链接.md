@@ -14,7 +14,7 @@
 - [国家集训队论文分类整理](http://www.cnblogs.com/AbandonZHANG/archive/2012/07/21/2601889.html)<br>
  
  (2)题库：<br>
-- [Virtual Judge](https://cn.vjudge.net/problem)(各大oj的集大成者－－将数据传送到对应的ＯＪ上测试)<br>
+- [Virtual Judge](https://vjudge.net/problem)(各大oj的集大成者－－将数据传送到对应的ＯＪ上测试)<br>
 - [HDOJ题库](http://acm.hdu.edu.cn/listproblem.php?vol=1)<br>
 - [POJ题库](http://poj.org/problemlist)<br>
 
